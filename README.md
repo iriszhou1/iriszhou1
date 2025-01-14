@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Hi! My name is Iris, and I am passionate about working with others to create tools and generate insights to help the people and communities around me. I am a Master's student studying Computer Science, focusing on ML/AI, at the University of California, San Diego. I recently graduated from the University of Washington, where I majored in Mathematics and conducted research in computing education and Data Science for disaster recovery.
-
-💡 I'm interested in:
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
